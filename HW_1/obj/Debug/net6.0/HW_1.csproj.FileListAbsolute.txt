@@ -1,0 +1,15 @@
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/bin/Debug/net6.0/HW_1
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/bin/Debug/net6.0/HW_1.deps.json
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/bin/Debug/net6.0/HW_1.runtimeconfig.json
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/bin/Debug/net6.0/HW_1.dll
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/bin/Debug/net6.0/ref/HW_1.dll
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/bin/Debug/net6.0/HW_1.pdb
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.csproj.AssemblyReference.cache
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.AssemblyInfoInputs.cache
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.AssemblyInfo.cs
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.csproj.CoreCompileInputs.cache
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.dll
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/ref/HW_1.dll
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.pdb
+/Users/alex_nas/Desktop/C#_HW_Practice1/HW_1/obj/Debug/net6.0/HW_1.genruntimeconfig.cache
